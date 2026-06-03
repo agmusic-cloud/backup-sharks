@@ -1,0 +1,47 @@
+# OpenClaw sensitive/runtime data - never commit
+credentials/
+telegram/
+identity/
+delivery-queue/
+locks/
+tui/
+tasks/
+logs/
+memory/*.sqlite*
+exec-approvals.json
+update-check.json
+
+# Raw configs contain auth tokens / bot tokens. Keep sanitized copies in backup/ only.
+openclaw.json
+openclaw.json.*
+*.bak
+*.last-good
+
+# Heavy/generated artifacts
+npm/
+media/
+canvas/
+completions/
+plugins/
+plugin-skills/
+
+# Agent runtime secrets/caches/transcripts
+agents/*/sessions/
+agents/*/agent/auth-*.json
+agents/*/agent/codex-home/tmp/
+agents/*/agent/codex-home/.tmp/
+agents/*/agent/codex-home/*.sqlite*
+agents/*/agent/codex-home/logs*.sqlite*
+agents/*/agent/codex-home/state*.sqlite*
+agents/*/agent/codex-home/models_cache.json
+
+# Nested repo internals: include their files, not their git metadata
+workspace/.git/
+workspace-sharkzap/.git/
+
+# Original nested workspaces are snapshotted into backup/ for all-in-one repo
+workspace/
+workspace-sharkzap/
+
+# Memory recall cache
+**/memory/.dreams/
