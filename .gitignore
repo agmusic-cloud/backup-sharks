@@ -1,4 +1,4 @@
-# OpenClaw sensitive/runtime data - never commit
+# OpenClaw sensitive/runtime data - never commit raw
 credentials/
 telegram/
 identity/
@@ -7,7 +7,6 @@ locks/
 tui/
 tasks/
 logs/
-memory/*.sqlite*
 exec-approvals.json
 update-check.json
 
@@ -25,23 +24,15 @@ completions/
 plugins/
 plugin-skills/
 
-# Agent runtime secrets/caches/transcripts
-agents/*/sessions/
-agents/*/agent/auth-*.json
-agents/*/agent/codex-home/tmp/
-agents/*/agent/codex-home/.tmp/
-agents/*/agent/codex-home/*.sqlite*
-agents/*/agent/codex-home/logs*.sqlite*
-agents/*/agent/codex-home/state*.sqlite*
-agents/*/agent/codex-home/models_cache.json
-
-# Nested repo internals: include their files, not their git metadata
-workspace/.git/
-workspace-sharkzap/.git/
-
-# Original nested workspaces are snapshotted into backup/ for all-in-one repo
+# Original runtime/workspaces are snapshotted into backup/
+agents/
 workspace/
 workspace-sharkzap/
+memory/
 
 # Memory recall cache
 **/memory/.dreams/
+
+# OS/editor noise
+.DS_Store
+*.swp
