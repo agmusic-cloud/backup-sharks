@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-03T19:07:51.835Z",
+  "entries": {
+    "memory:memory/2026-05-14.md:1:7": {
+      "key": "memory:memory/2026-05-14.md:1:7",
+      "path": "memory/2026-05-14.md",
+      "startLine": 1,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "# 2026-05-14 - Bootstrap: Shark defined the assistant as **SharkMain** 🦈 — CEO da estrutura, do ecossistema de agentes e da empresa. - User identity: **Shark**. - Initial priority: configure tools and pair Telegram. - Telegram pairing approved for user ID `7474765059` / username `wesleygonncalves`; OpenClaw also configured `commands.ownerAllowFrom` as `telegram:7474765059`.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.2700032016580765,
+      "maxScore": 0.6350016008290382,
+      "firstRecalledAt": "2026-05-14T01:11:54.424Z",
+      "lastRecalledAt": "2026-05-14T01:12:32.908Z",
+      "queryHashes": [
+        "d3e51b64fde2",
+        "2381245b2df3"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "commands.ownerallowfrom",
+        "bootstrap",
+        "shark",
+        "defined",
+        "sharkmain",
+        "ceo",
+        "estrutura",
+        "ecossistema"
+      ]
+    },
+    "memory:memory/2026-05-14.md:1:8": {
+      "key": "memory:memory/2026-05-14.md:1:8",
+      "path": "memory/2026-05-14.md",
+      "startLine": 1,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "# 2026-05-14 - Bootstrap: Shark defined the assistant as **SharkMain** 🦈 — CEO da estrutura, do ecossistema de agentes e da empresa. - User identity: **Shark**. - Initial priority: configure tools and pair Telegram. - Telegram pairing approved for user ID `7474765059` / username `wesleygonncalves`; OpenClaw also configured `commands.ownerAllowFrom` as `telegram:7474765059`. - Configured Telegram account `sharkzap`, bound it to agent `sharkzap`, and approved Telegram pairing code `ERU94T4Z` for sender `telegram:7474765059`. Sharkzap account status: connected/running.",
+      "recallCount": 8,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 5.436934789579689,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T15:41:23.357Z",
+      "lastRecalledAt": "2026-06-03T19:07:51.835Z",
+      "queryHashes": [
+        "f3f626cce3f3",
+        "2091f0cd51c5",
+        "9daf0d374b7d",
+        "d67d564d46ad",
+        "703d573a4ea1",
+        "26f5cedf43b0",
+        "3f33fcc9ad71",
+        "4b5099963775"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-23",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "commands.ownerallowfrom",
+        "connected/running",
+        "bootstrap",
+        "shark",
+        "defined",
+        "sharkmain",
+        "ceo",
+        "estrutura"
+      ]
+    },
+    "memory:memory/2026-05-23.md:1:7": {
+      "key": "memory:memory/2026-05-23.md:1:7",
+      "path": "memory/2026-05-23.md",
+      "startLine": 1,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "# 2026-05-23 - Shark activated campaigns for **Extensão Secreta / extensão infinita da Lovable** and said leads may arrive while he sleeps. - Priority: super humanized WhatsApp/service flow focused on conversion, answering doubts, and guiding toward purchase without being aggressive or careless. - Key offer point Shark gave: user can get **30 free minutes** to test the extension. - Instruction: be careful with WhatsApp information; don't “meter o louco” immediately. Build trust first, qualify, answer, then close.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.2656368837008733,
+      "maxScore": 0.6328184418504367,
+      "firstRecalledAt": "2026-06-03T18:22:28.705Z",
+      "lastRecalledAt": "2026-06-03T18:57:27.137Z",
+      "queryHashes": [
+        "26f5cedf43b0",
+        "3f33fcc9ad71"
+      ],
+      "recallDays": [
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "whatsapp/service",
+        "shark",
+        "activated",
+        "campaigns",
+        "extensão",
+        "secreta",
+        "infinita",
+        "lovable"
+      ]
+    }
+  }
+}

@@ -1,37 +1,28 @@
-# OpenClaw sensitive/runtime data - never commit raw
-credentials/
-telegram/
-identity/
-delivery-queue/
-locks/
-tui/
-tasks/
-logs/
+# Raw OpenClaw runtime dirs; curated migration backup lives under backup/
+/credentials/
+/telegram/
+/identity/
+/delivery-queue/
+/locks/
+/tui/
+/tasks/
+/logs/
 exec-approvals.json
 update-check.json
-
-# Raw configs contain auth tokens / bot tokens. Keep sanitized copies in backup/ only.
 openclaw.json
 openclaw.json.*
 *.bak
 *.last-good
-
-# Heavy/generated artifacts
-npm/
-media/
-canvas/
-completions/
-plugins/
-plugin-skills/
-
-# Original runtime/workspaces are snapshotted into backup/
-agents/
-workspace/
-workspace-sharkzap/
-memory/
-
-# Memory recall cache
-**/memory/.dreams/
+/npm/
+/media/
+/canvas/
+/completions/
+/plugins/
+/plugin-skills/
+/agents/
+/workspace/
+/workspace-sharkzap/
+/memory/
 
 # OS/editor noise
 .DS_Store

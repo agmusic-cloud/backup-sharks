@@ -1,19 +1,24 @@
-# OpenClaw all-in-one backup
+# OpenClaw migration backup - Shark ecosystem
 
-This repo backs up the important portable state for SharkMain/SharkZap:
+This is a migration-grade backup for SharkMain/SharkZap.
 
-- `backup/workspace-main/`: main agent workspace, including `MEMORY.md` and daily memory files
-- `backup/workspace-sharkzap/`: SharkZap workspace/playbooks/prompts
-- `backup/runtime-memory/`: OpenClaw runtime memory DB/index files
-- `backup/agents/`: agent metadata, models, skills, and recent sessions
-- `backup/openclaw.sanitized.json`: OpenClaw config with secrets redacted
+Included:
 
-Security exclusions:
+- `workspace-main/`: complete main workspace files, including `MEMORY.md`, daily memory, `AGENTS.md`, `SOUL.md`, `USER.md`, `TOOLS.md`, `HEARTBEAT.md` and local state files.
+- `workspace-sharkzap/`: complete SharkZap workspace files, playbooks, prompts, procedures, routing docs and business context.
+- `runtime-memory/`: complete OpenClaw runtime memory databases/index files.
+- `agents/`: agent metadata, model files, skills and complete copied session folders/transcripts for ecosystem recall.
+- `git-bundles/`: portable git history bundles for the two workspaces.
+- `config/openclaw.sanitized.json`: OpenClaw config with secret values redacted.
 
-- raw credentials/tokens/bot tokens/auth dirs
-- Telegram/WhatsApp login/session auth state
-- npm/cache/media/generated artifacts
+Not included intentionally:
 
-Session policy:
+- raw Telegram/WhatsApp auth/session login folders
+- raw credentials directory
+- npm/cache/media/generated runtime artifacts
 
-- Agent session folders can grow a lot, so this backup keeps the latest 80 session files per agent plus `sessions.json`.
+Secret policy:
+
+- Procedures, memories and sessions are kept for recall.
+- Obvious token/password/private-key values in text/JSON/session files are replaced with `<REDACTED>`.
+- Shark plans to reconnect Telegram/WhatsApp and rotate credentials after migration.

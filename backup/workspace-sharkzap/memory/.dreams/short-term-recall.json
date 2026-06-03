@@ -1,0 +1,725 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-28T05:27:40.258Z",
+  "entries": {
+    "memory:memory/2026-05-14.md:1:23": {
+      "key": "memory:memory/2026-05-14.md:1:23",
+      "path": "memory/2026-05-14.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "## Wesley / SharkPays - Wesley Gonçalves é founder da SharkPays. - SharkPays é uma plataforma de vendas online para cartão, boleto e Pix. - SharkPays lançou operação internacional. - Wesley é de Rio Verde, Goiás. - Ele tem comunidade, vários links, algumas empresas, serviços e produtos; organizar tudo por partes. ## Mapa inicial de empresas/produtos - SharkPays: plataforma de vendas online no Brasil, Estados Unidos e +135 países; recebe via cartão, boleto e Pix. - Meta Marketing: agência de marketing em sociedade; serviços incluem tráfego pago, identidade visual, logomarca, estratégia para anúncios, tráfego express e outros. - Shark Do Milion: ecossistema/SaaS criado dentro da plataforma;",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 5,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:00:39.355Z",
+      "lastRecalledAt": "2026-05-27T12:02:15.488Z",
+      "queryHashes": [
+        "62b984afc5df",
+        "97438b4c4860",
+        "b900d98355be",
+        "f4335f327405",
+        "b59e9d881376"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "empresas/produtos",
+        "ecossistema/saas",
+        "wesley",
+        "sharkpays",
+        "gonçalves",
+        "founder",
+        "uma",
+        "plataforma"
+      ]
+    },
+    "memory:memory/2026-05-14.md:21:32": {
+      "key": "memory:memory/2026-05-14.md:21:32",
+      "path": "memory/2026-05-14.md",
+      "startLine": 21,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "- Página principal da mentoria posiciona a Extensão Secreta como ferramenta para criar sites, apps e sistemas com IA via navegador, texto/voz, sem programar. - Planos identificados: mensal R$197/mês, trimestral R$397/3 meses, vitalício R$997 pagamento único com curso completo. - Promessa comercial: criar projetos digitais e vender para clientes por R$500 a R$2.000, mirando renda extra. - Revenda: desconto de 40%, receita recorrente, painel exclusivo, compra em lote/gestão de clientes e suporte prioritário. ## Extensão Secreta - oferta/licença atualizada - Posicionamento: Projetos ilimitados com IA, sem pagar em dólar; destravar projetos ilimitados; baixar extensão grátis; suporte. - Compara",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 5,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:00:39.355Z",
+      "lastRecalledAt": "2026-05-28T05:27:40.258Z",
+      "queryHashes": [
+        "62b984afc5df",
+        "b900d98355be",
+        "e2b7b9079f21",
+        "e0425dc46896",
+        "a42d59c4efb8"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-23",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "texto/voz",
+        "197/mês",
+        "397/3",
+        "2.000",
+        "lote/gestão",
+        "oferta/licença",
+        "página",
+        "principal"
+      ]
+    },
+    "memory:memory/2026-05-14.md:66:78": {
+      "key": "memory:memory/2026-05-14.md:66:78",
+      "path": "memory/2026-05-14.md",
+      "startLine": 66,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "- Wesley quer que o SharkZap acesse grupos para fazer pesquisa de mercado. Deve ser feito de forma ética: observar dores, linguagem, dúvidas, objeções e oportunidades; sem spam, sem puxar dados privados e sem abordar membros sem autorização. ## WhatsApp groups access for research - Wesley said SharkZap will be connected inside WhatsApp groups for market research. Need collect group list, permission/scope, research objectives, allowed interactions, reporting cadence, and escalation rules before acting. ## WhatsApp groups - admin account - Wesley sent screenshots showing WhatsApp community/group structure where the WhatsApp number is already admin and will control notices/announcements. - Vi",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4.842454016816001,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:00:39.355Z",
+      "lastRecalledAt": "2026-05-26T23:59:47.617Z",
+      "queryHashes": [
+        "62b984afc5df",
+        "97438b4c4860",
+        "ac1514491bca",
+        "e7f60d43174f",
+        "3dd482881a21"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "permission/scope",
+        "community/group",
+        "notices/announcements",
+        "wesley",
+        "quer",
+        "sharkzap",
+        "acesse",
+        "grupos"
+      ]
+    },
+    "memory:memory/2026-05-14.md:55:71": {
+      "key": "memory:memory/2026-05-14.md:55:71",
+      "path": "memory/2026-05-14.md",
+      "startLine": 55,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "- Estilo: mensagens curtas/médias, sem textão no início, tom humano/profissional/consultivo/seguro/amigável. - Criado arquivo WHATSAPP_AGENT_MASTER_PROMPT.md com a versão estruturada. ## WhatsApp master prompt - scripts e variação - Wesley complementou o prompt-mestre com bancos de aberturas, transições e CTAs para variação automática. - Regras adicionais: nunca usar mesma combinação muitas vezes seguidas; evitar excesso de mensagens consecutivas; respeitar desinteresse; follow-up leve com intervalo; fazer 1 pergunta por vez; adaptar por perfil iniciante/avançado/apressado/inseguro. - Scripts base incluídos para: lead frio, lead do teste grátis, lead renda extra, lead com medo de ban, lead",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 5.814330084653568,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:00:39.355Z",
+      "lastRecalledAt": "2026-05-26T23:59:47.617Z",
+      "queryHashes": [
+        "62b984afc5df",
+        "8edfc66c0705",
+        "7ce641cdba66",
+        "ac1514491bca",
+        "e0425dc46896",
+        "3dd482881a21"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-23",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "curtas/médias",
+        "whatsapp-agent-master-prompt.md",
+        "prompt-mestre",
+        "follow-up",
+        "estilo",
+        "mensagens",
+        "curtas",
+        "médias"
+      ]
+    },
+    "memory:memory/2026-05-14.md:74:85": {
+      "key": "memory:memory/2026-05-14.md:74:85",
+      "path": "memory/2026-05-14.md",
+      "startLine": 74,
+      "endLine": 85,
+      "source": "memory",
+      "snippet": "- Visible groups: TUBARÃO DIGITAL | Networking..., Divulgue seu serviço/produto, SHARK EXTENSÃO SECRETA..., VIP - EXTENSÃO SECRETA, SHARK AVISOS ⚠️, SharksPay - Competição 🏅, SHARK CAST 📹, SHARKSWIPE 🇧🇷🇺🇸, NETWORK | KAWAI ADS 🕵️, SHARKPAYS | Networking 💰✅, BM & CONTINGENCIA ✅, Prompts Na Descrição do Gru..., SHARK DO MILION 🔥🇧🇷 vs 🇺🇸 (available to enter). - Need define which groups are for announcements only, support, networking, market research, sales, and community moderation before automated participation. ## Permissões oficiais em grupos WhatsApp - Wesley definiu que, por enquanto, o SharkZap ainda não deve falar sozinho; só falar quando Wesley mandar/autorizar. - Papel em",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.7762763426305923,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:00:39.355Z",
+      "lastRecalledAt": "2026-05-14T03:09:47.546Z",
+      "queryHashes": [
+        "62b984afc5df",
+        "97438b4c4860"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "network",
+        "serviço/produto",
+        "mandar/autorizar",
+        "visible",
+        "groups",
+        "tubarão",
+        "digital",
+        "networking"
+      ]
+    },
+    "memory:memory/2026-05-14.md:97:104": {
+      "key": "memory:memory/2026-05-14.md:97:104",
+      "path": "memory/2026-05-14.md",
+      "startLine": 97,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "- Resposta boa em grupo: curta, contextual, útil, humana e sem CTA forçado. - Fórmula segura: reconhecer dor/dúvida, comentar algo útil, abrir espaço, aprofundar só se a pessoa quiser. - Lead quente no grupo: validar interesse, oferecer explicar, pedir permissão, depois mandar link ou chamar privado. ## Versão curta operacional para grupos - Wesley consolidou versão curta para sistema: atuar em grupos no modo pesquisa silenciosa + suporte leve; observar cultura; interagir só com contexto; mapear dores sobre Lovable, créditos, IA, renda extra e Extensão Secreta; responder humano/curto/útil/variado; sem spam/link sem contexto/privado sem abertura; escalar lead quente, reclamação grave, dúvida",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:09:47.546Z",
+      "lastRecalledAt": "2026-05-14T03:09:47.546Z",
+      "queryHashes": [
+        "97438b4c4860"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "dor/dúvida",
+        "humano/curto/útil/variado",
+        "spam/link",
+        "contexto/privado",
+        "resposta",
+        "boa",
+        "grupo",
+        "curta"
+      ]
+    },
+    "memory:memory/2026-05-14.md:81:93": {
+      "key": "memory:memory/2026-05-14.md:81:93",
+      "path": "memory/2026-05-14.md",
+      "startLine": 81,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "- Pode observar; pode responder dúvidas com critério; privado só com sinal claro de abertura e consentimento; links só quando fizer sentido e preferencialmente quando pedirem/contexto justificar. - Pesquisa prioritária: dores sobre Lovable, reclamações de créditos, dúvidas sobre IA e pessoas buscando renda extra. - Criado COMMUNITY_AGENT_PERMISSIONS.md com as permissões operacionais. ## Grupos WhatsApp - classificação de oportunidades complementada - Monitorar linguagem de renda/oportunidade: \"como vender serviço\", \"como fazer renda\", \"quero uma oportunidade\", \"não sei por onde começar\"; sem prometer nada, apenas identificar intenção. - Oportunidades para Extensão Secreta: necessidade de ma",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.7964854988408445,
+      "maxScore": 0.9699516672311062,
+      "firstRecalledAt": "2026-05-14T03:09:47.546Z",
+      "lastRecalledAt": "2026-05-14T03:21:14.871Z",
+      "queryHashes": [
+        "97438b4c4860",
+        "b900d98355be"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "pedirem/contexto",
+        "community-agent-permissions.md",
+        "renda/oportunidade",
+        "pode",
+        "observar",
+        "responder",
+        "dúvidas",
+        "com"
+      ]
+    },
+    "memory:memory/2026-05-14.md:106:119": {
+      "key": "memory:memory/2026-05-14.md:106:119",
+      "path": "memory/2026-05-14.md",
+      "startLine": 106,
+      "endLine": 119,
+      "source": "memory",
+      "snippet": "- Wesley confirmou que para lead interessado em revenda deve ser usado o link /revenda: https://www.sharkextensaosecreta.digital/revenda ## FAQ oficial SharkZap / Extensão Secreta / Mentoria - Wesley enviou a base do FAQ técnico + comercial e lógica de roteamento. - FAQ consolidado em FAQ_OFICIAL_SHARKZAP_EXTENSAO_SECRETA.md com links finais, tabela de preços, FAQ técnico, FAQ comercial, roteamento por situação e regra de linguagem. - Links principais: teste/licença/compra em sharkextensaosecreta.digital; créditos /creditos; revenda /revenda; afiliado app.sharkpayments invite; comunidade WhatsApp; mentoria/renda extra extensaosecreta.digital; webinar sharkdomilion.digital/webinar; login sha",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4.631696502486574,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:21:14.871Z",
+      "lastRecalledAt": "2026-05-28T05:27:40.258Z",
+      "queryHashes": [
+        "b900d98355be",
+        "e2b7b9079f21",
+        "e0425dc46896",
+        "b59e9d881376",
+        "a42d59c4efb8"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-23",
+        "2026-05-27",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "teste/licença/compra",
+        "sharkextensaosecreta.digital",
+        "app.sharkpayments",
+        "mentoria/renda",
+        "extensaosecreta.digital",
+        "sharkdomilion.digital/webinar",
+        "wesley",
+        "confirmou"
+      ]
+    },
+    "memory:memory/2026-05-14.md:97:110": {
+      "key": "memory:memory/2026-05-14.md:97:110",
+      "path": "memory/2026-05-14.md",
+      "startLine": 97,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "- Resposta boa em grupo: curta, contextual, útil, humana e sem CTA forçado. - Fórmula segura: reconhecer dor/dúvida, comentar algo útil, abrir espaço, aprofundar só se a pessoa quiser. - Lead quente no grupo: validar interesse, oferecer explicar, pedir permissão, depois mandar link ou chamar privado. ## Versão curta operacional para grupos - Wesley consolidou versão curta para sistema: atuar em grupos no modo pesquisa silenciosa + suporte leve; observar cultura; interagir só com contexto; mapear dores sobre Lovable, créditos, IA, renda extra e Extensão Secreta; responder humano/curto/útil/variado; sem spam/link sem contexto/privado sem abertura; escalar lead quente, reclamação grave, dúvida",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.63156408888849,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:21:14.871Z",
+      "lastRecalledAt": "2026-05-27T12:02:15.488Z",
+      "queryHashes": [
+        "b900d98355be",
+        "8edfc66c0705",
+        "b59e9d881376"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "dor/dúvida",
+        "humano/curto/útil/variado",
+        "spam/link",
+        "contexto/privado",
+        "resposta",
+        "boa",
+        "grupo",
+        "curta"
+      ]
+    },
+    "memory:memory/2026-05-14.md:115:123": {
+      "key": "memory:memory/2026-05-14.md:115:123",
+      "path": "memory/2026-05-14.md",
+      "startLine": 115,
+      "endLine": 123,
+      "source": "memory",
+      "snippet": "- Wesley confirmou que atendimento pode responder que funciona em Mac, Windows e Linux desde que navegador compatível esteja instalado. - Fluxo de erro: confirmar navegador, licença colada, e-mail de compra, pedir print/vídeo curto, escalar ao suporte se persistir. - FAQ comercial: Extensão Secreta serve para uso próprio e para vender; SharkZap deve rotear uso próprio, renda extra e oportunidade/revenda. ## FAQ oficial - escalonamento e versão curta - Wesley enviou complemento do FAQ com quem deve ir para licença, mentoria/renda extra e revenda; curso incluso no vitalício; regras de escalonamento para Wesley/humano e suporte; matriz rápida de link por situação; respostas prontas; versão cur",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.632001772788136,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:21:14.871Z",
+      "lastRecalledAt": "2026-05-14T03:22:17.464Z",
+      "queryHashes": [
+        "b900d98355be",
+        "8edfc66c0705"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "e-mail",
+        "print/vídeo",
+        "oportunidade/revenda",
+        "mentoria/renda",
+        "wesley/humano",
+        "wesley",
+        "confirmou",
+        "atendimento"
+      ]
+    },
+    "memory:memory/2026-05-14.md:47:59": {
+      "key": "memory:memory/2026-05-14.md:47:59",
+      "path": "memory/2026-05-14.md",
+      "startLine": 47,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "- Oferta método renda extra: mensal R$197, trimestral R$397, vitalício R$997 com curso completo e suporte via WhatsApp; pagamento PIX/cartão em reais, acesso imediato por e-mail, 7 dias garantia. - Cliente ideal: vibe coders que usam muito Lovable; pessoas que gastam muitos créditos ou ficam limitadas/comprando créditos; pessoas que querem começar nova profissão, sair do CLT, fazer renda extra na internet, aprender tráfego pago ou usar gateway de pagamento. - Existem aulas didáticas. Wesley ainda vai colocar tráfego pago. Leads já chegam via tráfego pago. Wesley quer criar algo automatizado no Telegram, tipo grupo/funil; já existe comunidade no WhatsApp. ## Prompt-mestre WhatsApp SharkZap -",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:22:17.464Z",
+      "lastRecalledAt": "2026-05-19T17:00:02.001Z",
+      "queryHashes": [
+        "8edfc66c0705",
+        "7ce641cdba66",
+        "ac1514491bca",
+        "e7f60d43174f"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "gateway",
+        "pix/cartão",
+        "e-mail",
+        "limitadas/comprando",
+        "grupo/funil",
+        "prompt-mestre",
+        "oferta",
+        "método"
+      ]
+    },
+    "memory:memory/2026-05-14.md:91:101": {
+      "key": "memory:memory/2026-05-14.md:91:101",
+      "path": "memory/2026-05-14.md",
+      "startLine": 91,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "- Tom-base recomendado: observador útil + suporte leve. Natural, curto, respeitoso, contextual, útil, sem excesso de entusiasmo comercial. - Não falar com cara de pitch, insistência, urgência artificial, marketing o tempo todo ou tentando dominar conversa. - Modos: quieto/observador para grupos novos ou sensíveis; suporte ativo para grupos receptivos e dúvidas técnicas; vendedor consultivo só com abertura; moderador só com autoridade delegada. - Chamar operador humano quando: lead quente querendo comprar/link/condição/parceria; reclamação grave/conflito/reputação; dúvida técnica desconhecida; oportunidade séria de parceria/revenda. - Anti-ban/rejeição social: não repetir mensagens, não usar",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T03:22:17.464Z",
+      "lastRecalledAt": "2026-05-14T03:22:17.464Z",
+      "queryHashes": [
+        "8edfc66c0705"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "tom-base",
+        "quieto/observador",
+        "comprar/link/condição/parceria",
+        "grave/conflito/reputação",
+        "parceria/revenda",
+        "anti-ban/rejeição",
+        "tom",
+        "base"
+      ]
+    },
+    "memory:memory/2026-05-14.md:140:152": {
+      "key": "memory:memory/2026-05-14.md:140:152",
+      "path": "memory/2026-05-14.md",
+      "startLine": 140,
+      "endLine": 152,
+      "source": "memory",
+      "snippet": "- Escalonamento obrigatório: pagamento travado, bug técnico persistente, parceria séria, lead muito quente, reclamação pública, discussão em grupo, tema sensível sobre conta/bloqueio/risco. - Checklist antes de conectar: observação, privado com abertura, 1 follow-up, link com contexto, escala humana, respostas variáveis, sem promessas sensíveis, grupos como suporte, opt-out, revisão humana diária. ## Conectar agente WhatsApp - Wesley perguntou se já podemos conectar o agente. - Status: OpenClaw rodando; Telegram configurado; WhatsApp ainda não aparece nos canais configurados. - Tentativa de `openclaw channels login --channel whatsapp --account sharkzap` via tool foi bloqueada porque login i",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T04:02:16.784Z",
+      "lastRecalledAt": "2026-05-14T04:02:16.784Z",
+      "queryHashes": [
+        "7ce641cdba66"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "conta/bloqueio/risco",
+        "follow-up",
+        "opt-out",
+        "escalonamento",
+        "obrigatório",
+        "pagamento",
+        "travado",
+        "bug"
+      ]
+    },
+    "memory:memory/2026-05-14.md:115:128": {
+      "key": "memory:memory/2026-05-14.md:115:128",
+      "path": "memory/2026-05-14.md",
+      "startLine": 115,
+      "endLine": 128,
+      "source": "memory",
+      "snippet": "- Wesley confirmou que atendimento pode responder que funciona em Mac, Windows e Linux desde que navegador compatível esteja instalado. - Fluxo de erro: confirmar navegador, licença colada, e-mail de compra, pedir print/vídeo curto, escalar ao suporte se persistir. - FAQ comercial: Extensão Secreta serve para uso próprio e para vender; SharkZap deve rotear uso próprio, renda extra e oportunidade/revenda. ## FAQ oficial - escalonamento e versão curta - Wesley enviou complemento do FAQ com quem deve ir para licença, mentoria/renda extra e revenda; curso incluso no vitalício; regras de escalonamento para Wesley/humano e suporte; matriz rápida de link por situação; respostas prontas; versão cur",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T04:02:16.784Z",
+      "lastRecalledAt": "2026-05-27T12:02:15.488Z",
+      "queryHashes": [
+        "7ce641cdba66",
+        "e2b7b9079f21",
+        "e0425dc46896",
+        "b59e9d881376"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-23",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "e-mail",
+        "print/vídeo",
+        "oportunidade/revenda",
+        "mentoria/renda",
+        "wesley/humano",
+        "wesley",
+        "confirmou",
+        "atendimento"
+      ]
+    },
+    "memory:memory/2026-05-14.md:126:137": {
+      "key": "memory:memory/2026-05-14.md:126:137",
+      "path": "memory/2026-05-14.md",
+      "startLine": 126,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "- Wesley enviou a base do prompt operacional final do SharkZap; arquivo SHARKZAP_OPENCLAW_PROMPT.md criado com identidade, tom, modo operacional, identificação de intenção, links oficiais, preços, roteamento, FAQ técnico, grupos/comunidade, escalonamento, segurança comercial e regra final. ## Prompt OpenClaw - fluxos, respostas rápidas e relatórios - Wesley enviou complemento para o prompt operacional: mensagens-base para teste grátis, cliente com erro, lead quente, revenda/parceria e suporte SharkPays; regras de grupos, anti-repetição, escalonamento, relatórios/classificação, regra final, links completos, preços, FAQ técnico e respostas rápidas. - SHARKZAP_OPENCLAW_PROMPT.md atualizado com",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T04:02:16.784Z",
+      "lastRecalledAt": "2026-05-14T04:02:16.784Z",
+      "queryHashes": [
+        "7ce641cdba66"
+      ],
+      "recallDays": [
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "sharkzap-openclaw-prompt.md",
+        "grupos/comunidade",
+        "mensagens-base",
+        "revenda/parceria",
+        "anti-repetição",
+        "relatórios/classificação",
+        "wesley",
+        "enviou"
+      ]
+    },
+    "memory:memory/2026-05-14.md:140:154": {
+      "key": "memory:memory/2026-05-14.md:140:154",
+      "path": "memory/2026-05-14.md",
+      "startLine": 140,
+      "endLine": 154,
+      "source": "memory",
+      "snippet": "- Escalonamento obrigatório: pagamento travado, bug técnico persistente, parceria séria, lead muito quente, reclamação pública, discussão em grupo, tema sensível sobre conta/bloqueio/risco. - Checklist antes de conectar: observação, privado com abertura, 1 follow-up, link com contexto, escala humana, respostas variáveis, sem promessas sensíveis, grupos como suporte, opt-out, revisão humana diária. ## Conectar agente WhatsApp - Wesley perguntou se já podemos conectar o agente. - Status: OpenClaw rodando; Telegram configurado; WhatsApp ainda não aparece nos canais configurados. - Tentativa de `openclaw channels login --channel whatsapp --account sharkzap` via tool foi bloqueada porque login i",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T04:06:59.703Z",
+      "lastRecalledAt": "2026-05-26T23:59:47.617Z",
+      "queryHashes": [
+        "ac1514491bca",
+        "e7f60d43174f",
+        "3dd482881a21"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "conta/bloqueio/risco",
+        "follow-up",
+        "opt-out",
+        "escalonamento",
+        "obrigatório",
+        "pagamento",
+        "travado",
+        "bug"
+      ]
+    },
+    "memory:memory/2026-05-14.md:134:144": {
+      "key": "memory:memory/2026-05-14.md:134:144",
+      "path": "memory/2026-05-14.md",
+      "startLine": 134,
+      "endLine": 144,
+      "source": "memory",
+      "snippet": "- Regras: responder quem chamou, continuar conversa iniciada, link só com pedido/contexto, privado só com abertura, respeitar pedido de parar; sem disparo em massa, sequências iguais, follow-up em cascata, puxar estranhos no privado ou mensagens promocionais repetidas. - Ritmo: 1 resposta por interação; se não responder, no máximo 1 follow-up leve e depois silêncio. Grupos: pesquisa silenciosa, sem pitch/link sem pedido/caça-lead. Linguagem: evitar promessas de dinheiro rápido, faturamento garantido, sem risco, sem ban, 100% seguro. ## Bloco final anti-ban/conformidade OpenClaw - Wesley enviou bloco final anti-ban para embutir no prompt OpenClaw: operar natural, útil e consentido; nunca bur",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.8832453549804318,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-14T04:06:59.703Z",
+      "lastRecalledAt": "2026-05-19T16:10:39.445Z",
+      "queryHashes": [
+        "ac1514491bca",
+        "e2b7b9079f21"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "pedido/contexto",
+        "follow-up",
+        "pitch/link",
+        "pedido/caça-lead",
+        "anti-ban/conformidade",
+        "anti-ban",
+        "regras",
+        "responder"
+      ]
+    },
+    "memory:memory/2026-05-14.md:31:40": {
+      "key": "memory:memory/2026-05-14.md:31:40",
+      "path": "memory/2026-05-14.md",
+      "startLine": 31,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "- Diferencial contra piratas: sempre online, atualizações automáticas/grátis, suporte WhatsApp tempo real, segurança, 8 ferramentas exclusivas, 7 dias de garantia, teste grátis 10 min. Aviso: piratas podem causar ban permanente. - Oferta: teste grátis de 3 horas sem pagar nada; garantia total 7 dias; planos diário R$39,90/dia, semanal R$109/semana, mensal R$179/mês, anual R$497 pagamento único. - Revenda: margens atrativas, demanda crescente e recorrência com planos mensais/trimestrais. ## Extensão Secreta - revenda e página renda extra - Revendedor: CTA \"Quero ser Revendedor\", cadastro para começar a revender hoje, +500 usuários confiam na Shark, extensão original e segura. - Teste grátis",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-19T16:10:39.445Z",
+      "lastRecalledAt": "2026-05-28T05:27:40.258Z",
+      "queryHashes": [
+        "e2b7b9079f21",
+        "a42d59c4efb8"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "automáticas/grátis",
+        "90/dia",
+        "109/semana",
+        "179/mês",
+        "mensais/trimestrais",
+        "diferencial",
+        "contra",
+        "piratas"
+      ]
+    },
+    "memory:memory/2026-05-14.md:151:163": {
+      "key": "memory:memory/2026-05-14.md:151:163",
+      "path": "memory/2026-05-14.md",
+      "startLine": 151,
+      "endLine": 163,
+      "source": "memory",
+      "snippet": "- Wesley reforçou regra importante: SharkZap não deve dar informações sobre Wesley nem coisas internas da operação. Deve manter dados internos, estratégias, documentos, bastidores, números, identidade pessoal e contexto privado protegidos; só falar informações públicas/oficiais necessárias ao atendimento. ## SharkZap como time comercial - Wesley reforçou que o SharkZap deve falar sobre as empresas/produtos da operação e sempre perguntar o que a pessoa precisa antes de direcionar. - SharkZap é o agente, mas pode ser nomeado/apresentado como time comercial, com papéis internos como SDR, closer, follow-up e suporte inicial, sem fingir várias pessoas reais. - Manter sempre as regras de privacid",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.2631287415548265,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-19T17:00:02.001Z",
+      "lastRecalledAt": "2026-05-28T05:27:40.258Z",
+      "queryHashes": [
+        "e7f60d43174f",
+        "3dd482881a21",
+        "b59e9d881376",
+        "a42d59c4efb8"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "públicas/oficiais",
+        "empresas/produtos",
+        "nomeado/apresentado",
+        "follow-up",
+        "wesley",
+        "reforçou",
+        "regra",
+        "importante"
+      ]
+    },
+    "memory:memory/2026-05-14.md:160:172": {
+      "key": "memory:memory/2026-05-14.md:160:172",
+      "path": "memory/2026-05-14.md",
+      "startLine": 160,
+      "endLine": 172,
+      "source": "memory",
+      "snippet": "- Se o nome do WhatsApp estiver disponível/confiável, usar em saudação natural; se não estiver, usar saudação neutra e nunca inventar nome. - Wesley cogitou plugar ao Supabase; recomendação: usar Supabase como CRM operacional para salvar contato, telefone/id, origem, intenção, produto, etapa comercial, necessidade, última interação e follow-up, sempre respeitando privacidade/anti-ban. ## SharkZap - time comercial completo e SharkPage - Shark definiu que SharkZap é o agente principal/orquestrador do atendimento ao cliente, mas deve operar internamente como time comercial completo: CRM, SDR de pré-qualificação, closer, follow-up, suporte inicial e compliance anti-ban WhatsApp. - A triagem ini",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-19T17:00:02.001Z",
+      "lastRecalledAt": "2026-05-26T23:59:47.617Z",
+      "queryHashes": [
+        "e7f60d43174f",
+        "3dd482881a21"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "disponível/confiável",
+        "telefone/id",
+        "follow-up",
+        "privacidade/anti-ban",
+        "principal/orquestrador",
+        "pré-qualificação",
+        "anti-ban",
+        "nome"
+      ]
+    },
+    "memory:memory/2026-05-14.md:39:48": {
+      "key": "memory:memory/2026-05-14.md:39:48",
+      "path": "memory/2026-05-14.md",
+      "startLine": 39,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "- Página de renda extra: promessa de faturar R$1.000/dia instalando a extensão no navegador. - Copy: sem extensão a pessoa não sabe programar, gasta horas, paga desenvolvedor caro, não tem renda extra previsível; com extensão cria sites/apps digitando ou falando, entrega projetos em menos de 1h, fatura R$500 a R$2.000 por projeto e pode fazer R$1.000+/dia com 2 projetos. - Explicação: extensão instala no Chrome/Edge/Brave e desbloqueia acesso ilimitado a IA que cria sites, aplicativos e sistemas completos por texto ou voz; o usuário vende projetos para pequenas empresas, profissionais liberais e empreendedores. - Processo: baixar, ativar licença, criar, faturar. ## Extensão Secreta - client",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-23T12:38:19.015Z",
+      "lastRecalledAt": "2026-05-28T05:27:40.258Z",
+      "queryHashes": [
+        "e0425dc46896",
+        "a42d59c4efb8"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "1.000/dia",
+        "sites/apps",
+        "2.000",
+        "1.000",
+        "chrome/edge/brave",
+        "página",
+        "renda",
+        "extra"
+      ]
+    }
+  }
+}
